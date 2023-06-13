@@ -39,7 +39,7 @@ The goal of this project is to develop a machine learning model that can accurat
 - Compare the performance of the model with baseline models and industry standards to gauge its effectiveness.
 
 ### Data Model Visualization - Dashboard
-
+- Export data using MySQL to RDS
 - Build an interactive dashboard that allows users to input vehicle information (e.g., condition, manufacturer, mileage, location) and receive predicted prices based on the trained model.
 - Deploy the application on a web server to make it accessible to users.
 
