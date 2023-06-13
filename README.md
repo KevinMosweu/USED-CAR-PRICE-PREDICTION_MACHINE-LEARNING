@@ -1,5 +1,8 @@
 # Project4-Group2
 
+![image](https://github.com/gusmendesbh/project4-group2/assets/94866814/92356039-e985-4d4d-8b48-19effbb99f0d)
+
+
 # Demystifying Machine Learning - Used Cars Prices
 
 ## 01 - The Problem:
