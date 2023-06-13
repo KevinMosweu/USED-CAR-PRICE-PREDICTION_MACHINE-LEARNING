@@ -32,7 +32,6 @@ The goal of this project is to develop a machine learning model that can accurat
 
 - Split the preprocessed dataset into training and testing sets.
 - Apply appropriate machine learning algorithms, such as linear, lasso, ridge and elastic net regression, random forests or decision trees, to train a predictive model on the training set.
-- Optimize the model's hyperparameters using techniques like cross-validation and grid search to achieve the best performance.
 - Evaluate the trained model using relevant evaluation metrics, such as mean absolute error (MAE), mean squared error (MSE), and R-squared.
 - Compare the performance of the model with baseline models and industry standards to gauge its effectiveness.
 
