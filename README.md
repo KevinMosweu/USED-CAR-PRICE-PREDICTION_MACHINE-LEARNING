@@ -7,7 +7,7 @@ Dashboard: https://public.tableau.com/app/profile/gustavo.mendes1926/viz/Group2-
 
 ## 01 - The Problem:
 
-The goal of this project is to develop a machine learning model that can accurately predict the prices of used vehicles listed on Craigslist, using the provided scraped data. By leveraging the vast collection of used vehicle entries within the United States, we aim to create a predictive model that will assist both sellers and buyers in making informed decisions regarding vehicle pricing.
+The goal of this project is to develop a machine learning model that can accurately analyze the prices of used vehicles listed on Craigslist, using the provided scraped data. By leveraging the vast collection of used vehicle entries within the United States, we aim to create a predictive model that will assist both sellers and buyers in making informed decisions regarding vehicle pricing.
 
 ### Goals:
 
