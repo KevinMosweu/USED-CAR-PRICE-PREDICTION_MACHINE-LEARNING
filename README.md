@@ -44,7 +44,7 @@ The goal of this project is to develop a machine learning model that can accurat
 ## 03 - Tools Used:
 
 - Google Colaboratory
-- Access to the scraped data from Craigslist containing used vehicle listings within the United States, obtainedle throught Kaggle: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+- Access to the scraped data from Craigslist containing used vehicle listings within the United States, obtained throught Kaggle: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 - AWS Cloud Services:
   - S3 for initial data storage
   - RDS for database storage
