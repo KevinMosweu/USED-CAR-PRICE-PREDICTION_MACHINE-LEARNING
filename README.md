@@ -3,8 +3,7 @@
 ![image](https://github.com/gusmendesbh/project4-group2/assets/94866814/92356039-e985-4d4d-8b48-19effbb99f0d)
 
 # Demystifying Machine Learning - Used Cars Prices
-Dashboard: https://public.tableau.com/views/Group2-Project4/UsedCarsPrices-Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
+Dashboard: https://public.tableau.com/app/profile/gustavo.mendes1926/viz/Group2-Project4/UsedCarsPrices-Story
 
 ## 01 - The Problem:
 
